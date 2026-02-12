@@ -1,2 +1,1 @@
-# logica-programacao-python
-feat: implementa contador personalizado com tratamento de passo zero
+Repositório de estudos de lógica e fundamentos em Python. Foco em controle de fluxo e robustez de funções.
